@@ -253,10 +253,10 @@ This project is created for educational and demonstration purposes as part of a 
 
 ## 👥 Team
 
-- Project Lead: [Your Name]
-- Frontend Developer: [Team Member]
-- Backend Developer: [Team Member]
-- UI/UX Designer: [Team Member]
+- Project Lead: [Tanishk Darekar]
+- Frontend Developer: [Vaibahv Sarvaiya]
+- Backend Developer: [Ganesh Dahifale]
+- UI/UX Designer: [Vedant Patil]
 
 ## 🙏 Acknowledgments
 
@@ -266,12 +266,3 @@ This project is created for educational and demonstration purposes as part of a 
 - Razorpay for payment integration
 - Unsplash for stock images
 
-## 📧 Contact
-
-For support or queries:
-- Email: support@nhmportal.gov.in
-- Helpline: +91-1800-419-4444
-
----
-
-**Built with ❤️ for the NHM Hackathon 2026**
